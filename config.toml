@@ -1,3 +1,14 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://manucalop.github.io/sciencebricks/"
+languageCode = "en-us"
+title = 'Science Bricks'
+title = "Christopher Hart's Blog"
+theme = "m10c"
+
+[params]
+  author = "Manuel Castillo-Lopez"
+  description = "Learn Science. One Brick at a Time."
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/manucalop"
