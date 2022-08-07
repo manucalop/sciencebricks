@@ -1,4 +1,4 @@
-baseURL = "https://manucalop.github.io/sciencebricks/"
+baseURL = "https://sciencebricks.ai/"
 languageCode = "en-us"
 title = 'Science Bricks'
 theme = "hugo-theme-m10c"
